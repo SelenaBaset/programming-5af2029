@@ -20,7 +20,7 @@ Friday, 10h15 to 12h00, D61, Bâtiment principal
 | 8–9 | 7 | [Files and tables](07_files_and_tables.ipynb) | Getting data in and out, the hard way and then the easy way. |
 | 10–11 | 8 | [Analysing data](08_analysing_data.ipynb) | Answering a question with a dataset, and showing the answer. |
 | 12–13 | 9 | [Objects, and putting it together](09_objects_and_case_study.ipynb) | Reading code built from objects, then a full problem from start to finish. |
-| 14 | | Exam | Written exam, on paper, 120 minutes |
+| 14 | | Review and Prepare for Exam | Open format session, come prepared with your questions |
 
 ## Where to run it
 
