@@ -11,8 +11,8 @@ Friday, 10h15 to 12h00, D61, Bâtiment principal
 
 | Week | # | Notebook | Theme |
 |---|---|---|---|
-| 1 | 1 | [A look ahead](01_teaser.ipynb) | What a short Python program can tell you that a chart cannot. |
-| 1 | 2 | [Setting up](02_setup.ipynb) | Noto, cells, the kernel, and where your files live. |
+| 1 | 1 | [Setting up](01_setup.ipynb) | Noto, cells, the kernel, and where your files live. |
+| 1 | 2 | [A look ahead](02_teaser.ipynb) | What a short Python program can tell you that a chart cannot. |
 | 1 | 3 | [First steps](03_first_steps.ipynb) | Printing, arithmetic, variables, types, and asking Python about itself. |
 | 2–3 | 4 | [Control](04_control.ipynb) | Making a program decide and repeat. |
 | 4–5 | 5 | [Data](05_data.ipynb) | Holding more than one value at a time. |
